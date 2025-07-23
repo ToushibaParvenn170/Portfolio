@@ -36,12 +36,4 @@ This is a simple, responsive, and elegant personal portfolio built using **HTML*
 | Contact     | Email and phone links for reaching out                                     |
 | Footer      | Copyright and ownership                                                     |
 
-## 📷 Preview
 
-![Portfolio Screenshot](#) <!-- You can add a screenshot later by uploading an image and linking here -->
-
-## 📁 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio-toushiba-parveen.git
