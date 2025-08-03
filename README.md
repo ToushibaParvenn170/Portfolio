@@ -37,3 +37,44 @@ This is a simple, responsive, and elegant personal portfolio built using **HTML*
 | Footer      | Copyright and ownership                                                     |
 
 
+
+## PROJECT SCREENSHOT 
+
+(1) PROJECT CONTENT 
+
+
+<img width="2831" height="1538" alt="Screenshot 2025-08-03 220452" src="https://github.com/user-attachments/assets/fd879dba-32b7-4cb2-97dc-107c8db699c8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="2807" height="1478" alt="Screenshot 2025-08-03 220514" src="https://github.com/user-attachments/assets/3a93deeb-8f75-4cdf-923c-326e357e723c" />
+
+
+
+
+
+(2) CLICKING ON CONTACT OPTION 
+
+
+
+
+
+<img width="2756" height="1474" alt="Screenshot 2025-08-03 220540" src="https://github.com/user-attachments/assets/436185f4-c010-4d25-ba48-f587e4ed9737" />
+
+
+
+
+
+
+
