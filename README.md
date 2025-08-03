@@ -40,7 +40,7 @@ This is a simple, responsive, and elegant personal portfolio built using **HTML*
 
 ## PROJECT SCREENSHOT 
 
-(1) PROJECT CONTENT 
+## (1) PROJECT CONTENT 
 
 
 <img width="2831" height="1538" alt="Screenshot 2025-08-03 220452" src="https://github.com/user-attachments/assets/fd879dba-32b7-4cb2-97dc-107c8db699c8" />
@@ -64,7 +64,7 @@ This is a simple, responsive, and elegant personal portfolio built using **HTML*
 
 
 
-(2) CLICKING ON CONTACT OPTION 
+## (2) CLICKING ON CONTACT OPTION 
 
 
 
