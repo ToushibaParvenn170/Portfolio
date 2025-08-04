@@ -40,7 +40,7 @@ This is a simple, responsive, and elegant personal portfolio built using **HTML*
 
 ## PROJECT SCREENSHOT 
 
-## (1) PROJECT CONTENT 
+## (1) PROJECT CONTENT-The portfolio home section showcasing personal introduction, education details, and project highlights, providing visitors with an overview of skills, background, and work experience.
 
 
 <img width="2831" height="1538" alt="Screenshot 2025-08-03 220452" src="https://github.com/user-attachments/assets/fd879dba-32b7-4cb2-97dc-107c8db699c8" />
@@ -64,7 +64,7 @@ This is a simple, responsive, and elegant personal portfolio built using **HTML*
 
 
 
-## (2) CLICKING ON CONTACT OPTION 
+## (2) CLICKING ON CONTACT OPTION-Shows the action of selecting the contact section from the navigation menu, allowing users to access the contact form or details.
 
 
 
