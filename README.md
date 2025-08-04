@@ -58,7 +58,7 @@ This is a simple, responsive, and elegant personal portfolio built using **HTML*
 
 
 
-<img width="2807" height="1478" alt="Screenshot 2025-08-03 220514" src="https://github.com/user-attachments/assets/3a93deeb-8f75-4cdf-923c-326e357e723c" />
+## <img width="2807" height="1478" alt="Screenshot 2025-08-03 220514" src="https://github.com/user-attachments/assets/3a93deeb-8f75-4cdf-923c-326e357e723c" />
 
 
 
